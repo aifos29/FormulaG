@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.latitude.formulag" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Menu_Principal"
+            android:label="FormulaG" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CodeFigura"
+            android:label="FormulaG" >
+        </activity>
+        <activity
+            android:name=".terminologia"
+            android:label="@string/title_activity_terminologia" >
+        </activity>
+        <activity
+            android:name=".planos"
+            android:label="@string/title_activity_planos" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".MenuG"
+            android:label="@string/title_activity_menu__principal" >
+        </activity>
+        <activity
+            android:name=".MenuID"
+            android:label="@string/title_activity_menu_id" >
+        </activity>
+        <activity
+            android:name=".der_inte"
+            android:label="@string/title_activity_der_inte" >
+        </activity>
+    </application>
+
+</manifest>

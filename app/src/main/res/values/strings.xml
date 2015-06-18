@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FormulaG</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_code_figura">CodeFigura</string>
+    <string name="title_activity_terminologia">Terminologia</string>
+    <string name="title_activity_planos">planos</string>
+    <string name="title_activity_menu_g">MenuG</string>
+    <string name="title_activity_menu__principal">Menu_Principal</string>
+    <string name="title_activity_menu_id">MenuID</string>
+    <string name="title_activity_der_inte">der_inte</string>
+</resources>
